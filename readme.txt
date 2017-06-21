@@ -6,4 +6,4 @@
 git is aversion control system
 
 
-gti is free software
+gti is free softwareddd
